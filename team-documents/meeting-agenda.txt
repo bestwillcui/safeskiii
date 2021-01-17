@@ -1,0 +1,22 @@
+Meeting Agenda 11/13/20
+
+Overview of progress
+
+1. We have met before the project pitches to agree on an idea
+2. The presentation and initial wireframe was made before the project pitch
+3. We have set up weekly meetings for us to talk about our progress and next steps
+4. Only difficulty we’ve faced is how to narrow down our idea more (mostly based on the feedback we’ve received from the instructors/TA + students)
+5. We’ve had some progress talking to people in Alta! And seeing what they think, the specific functionalities they would like implemented, etc.
+
+Questions we have 
+
+1. How to segment our market further (who specifically is our target audience in Alta)
+	- How much we should reasonably expect to implement, what if different areas request different things
+2. Will there be legal issues with our project being implemented for Alta?
+	- That is, say our website is being used by them for making skiing and tourism safer. Does this project belong to us or MIT (since it was done through 		6.170)? How would we deal with the legal aspects of integrating with Alta
+3. Design for persistent backend database
+	- Should we use SQL or are we allowed to use Firebase or something else?
+
+Upcoming plan
+
+More work on full design, ideas on how to effectively split up work & discuss things

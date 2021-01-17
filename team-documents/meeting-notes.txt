@@ -1,0 +1,31 @@
+November 13th, 2020
+
+1. Overview of progress - seems good!
+2. Questions we had for Emily 
+    a. How to segment our market further (who specifically is our target audience in Alta)?
+        i. It should be Alta specific, so find out what need Alta has
+            1. We don’t have to cater towards the majority, we could just help like one small business
+            2. Constrain ourselves to one business or one type of business
+            3. Think about what concerns other people in Alta have
+        ii. Our current restaurant plan seems to be a bit too similar to just Google
+            1. Probably not fulfilling an additional need in the town 
+        iii. Consider maybe rental shops?
+        iv. Think about ethical implications of privacy if we work with things like employee data or tracking
+        v. Side note: conceptual sketch needs to be more fleshed out
+    b. Will there be legal issues with our project being implemented for Alta?
+        i. That is, say our website is being used by them for making skiing and tourism safer. Does this project belong to us or MIT (since it was done through 6.170)? How would we deal with the legal aspects of integrating with Alta
+        ii. Emily will ask about the legal stuff + ToS and let us know :)
+    c. Design for persistent backend database
+        i. Should we use SQL or are we allowed to use Firebase or something else?
+        ii. Don’t have to use SQL, but it is recommended since there are a lot of staff resources for it
+            1. https://docs.google.com/document/d/1r5oKRnIUGA2TVS7F5kIaq5PI5JdQijWDwKeF7UoVpAo/edit?usp=sharing 
+3. Upcoming plan
+    a. More work on full design, ideas on how to effectively split up work & discuss things
+        i. Important to keep track of what tasks each person has
+        ii. Maybe assign a project manager person to keep track of deliverables and stuff
+        iii. Main thing is to decide on the idea really soon
+            1. Consider different stakeholders’ viewpoints and the ethics 
+        iv. Unique concept: dig more deeply into concept than commonly done, target towards specific audience and purpose
+    b. Try to do more stuff before Thanksgiving (deadlines are around there, so it might be awkward)
+    c. Ethical considerations
+        i. Maybe our website will increase traffic -> more risks for COVID-19

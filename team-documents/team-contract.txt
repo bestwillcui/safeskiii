@@ -1,0 +1,19 @@
+DREAM TEAM Team Contract
+
+Guang: I expect to put in a lot of effort throughout the process, and want to see this through to become a great final product that will be used and appreciated by people. My personal goal is to be able to build a great full-stack product and apply all the skills (from coding to design, etc.) I’ve learned in the class to form something tangible and helpful. 
+
+Tiffany: I expect to put forth my best effort in the development of this project and achieve a polished final product that will have real world applications. My personal goal is to apply the lessons I learned in design and full-stack development and build something useful that I can be proud of. 
+
+Qiuyue: I expect to put forth my best ability to contribute to this project. I am excited that there would be a real-life use of the knowledge I acquired in this class throughout the semester. My personal goal is to be able to build and design a full-stack project with my team and learn more about teamwork.
+
+Kev: I expect to contribute my best effort throughout the duration of this project. My personal goal is to see the project become a final product that people can actually use and benefit from. I’m hoping to put what I’ve learned in the class to use and design a full-stack project with my team.
+
+Our team meetings will be roughly bi-weekly. Saturday evenings and Tuesday evenings seem to be good for our team members, although we will schedule meetings as needed to complete benchmarks and discuss important challenges. They will be held on Zoom and be approximately an hour each.
+
+Quality of work will be maintained through these meetings (where we will discuss what each team member did and set realistic goals for the next meeting). We also have a messenger group chat where we can easily reach each other and let people know how progress is going, or if something is going on. 
+
+Tasks will be assigned at the end of each meeting in a fair way, so that everyone works on different components (but everyone will complete all software development activities). As of now, we can partition into a login page, coding two smaller components, and coding the general page layout that contains those components. We will reassign when needed but be sure to roughly balance the workload.
+
+Hopefully that will lead to minimal deadlines being missed, but if so, we will need to reevaluate as a team and figure out the best course of action going forward. We stress that each team member be honest and open from the start and communicate their progress or if they are having trouble meeting a deadline. 
+
+Decisions will be made by vote and discussion. If there is a major decision or someone strongly disagrees, we should all discuss and vote at the end. In the case of a tie, we will need to discuss further, and perhaps ask our team mentor if necessary. 
