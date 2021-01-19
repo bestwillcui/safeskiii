@@ -39,7 +39,7 @@ app.use('/', indexRouter);
 app.use('/api/users', usersRouter);
 app.use('/api/checkins', checkinRouter);
 app.use('/api/comments', commentsRouter);
-app.use(redirectUnmatched);
+// app.use(redirectUnmatched);
 
 module.exports = app;
 
