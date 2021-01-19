@@ -18,12 +18,12 @@
         </router-link>
       </div>
 
-      <!-- <div class="icon"> 
-        <div> info </div>
-        <router-link to="/settings">
-          <img alt="Home" src="../assets/settings.png" v-on:click="clicked('settings')" width=35 height=35> 
+      <div class="icon"> 
+        <div> analysis </div>
+        <router-link to="/analysis">
+          <img alt="Home" src="../assets/analysis.png" v-on:click="clicked('analysis')" width=35 height=35> 
         </router-link>
-      </div> -->
+      </div>
 
       <div class="icon"> 
         <div> links </div>

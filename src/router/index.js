@@ -4,6 +4,7 @@ import MainPage from '../views/MainPage.vue'
 import Login from '../views/Login.vue'
 import Feed from '../views/Feed.vue'
 import Links from '../views/Links.vue'
+import Analysis from '../views/Analysis.vue'
 
 Vue.use(VueRouter)
 
@@ -31,6 +32,11 @@ const routes = [
     path: '/links',
     name: 'Links',
     component: Links
+  },
+  {
+    path: '/analysis',
+    name: 'Analysis',
+    component: Analysis
   }
 ]
 
